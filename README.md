@@ -7,13 +7,11 @@
 <div align="center">
 
 ```
-      ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
     ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
     ╔═══════════════════════════╗
     ║   🌷 Hello, World! 🌷    ║
     ╚═══════════════════════════╝
     ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
-      ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Project+Manager;Product+Builder;Data+Manager;Community+Manager;AI+Engineer;Total+Nerd" alt="Typing SVG" />
@@ -154,7 +152,7 @@ I love creating things that work! There's nothing more fulfilling than knowing m
       <p>
         <img src="https://img.shields.io/badge/Godot%204.4-478CBF?style=flat-square&logo=godotengine&logoColor=white&color=ff69b4" />
       </p>
-      <p>🌸 <strong>Release:</strong> Free for the community!</p>
+      <p>🌸 <strong>Release:</strong> TBA </p>
     </td>
   </tr>
 </table>
@@ -195,6 +193,6 @@ I'm always excited to work on a whole bunch of projects, especially **machine le
     🌷🌸🌺🌻🌼🌹🏵️💐
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer&text=🌸💕🌸&fontSize=40&fontAlignY=70&fontColor=ffffff&animation=twinkling" />
 
 </div>
