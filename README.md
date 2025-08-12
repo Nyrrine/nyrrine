@@ -1,22 +1,22 @@
 <div align="center">
 
-# 🌸 Welcome to Nyrrine's Garden of Code 🌸
+# 🌸 Welcome My Garden!!! 🌸
 
 </div>
 
 <div align="center">
 
 ```
-      ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
+      ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
     ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
     ╔═══════════════════════════╗
-    ║   🌷 Hello, World! 🌷     ║
+    ║   🌷 Hello, World! 🌷    ║
     ╚═══════════════════════════╝
     ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
-      ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
+      ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀ ✿ ❀
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Fullstack+Developer+🌺;Data+Science+Student+📊;Building+Tomorrow's+Software+✨;Digital+Gardener+🌱" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Project+Manager;Product+Builder;Data+Manager;Community+Manager;AI+Engineer;Total+Nerd" alt="Typing SVG" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 </div> 
 
-<img align="right" width="200" src="https://i.pinimg.com/736x/48/99/17/4899178db8f71cd8a22794fb1880aff3.jpg" alt="Cute photo" />
+<img align="right" width="100" src="https://i.pinimg.com/736x/48/99/17/4899178db8f71cd8a22794fb1880aff3.jpg" alt="Cute photo" />
 
-> *Freshman Data Science Student & Fullstack Developer*  
+> *Incoming Freshman Data Science Student & Fullstack Developer*  
 > *Community Data & Social Platforms | Indie & FMCG Enterprise Software Experience*
 
 Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turning ideas into reality! ✨
@@ -106,18 +106,11 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=nyrrine&show_icons=true&theme=omni&bg_color=ffc0cb,ffb6c1,ff69b4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Nyrrine's GitHub stats" />
-      </td>
-      <td>
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrrine&layout=compact&theme=omni&bg_color=ff69b4,ffb6c1,ffc0cb&title_color=fff&text_color=fff&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=nyrrine&show_icons=true&theme=omni&bg_color=ffc0cb,ffb6c1,ff69b4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Nyrrine's GitHub stats" />
   
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrrine&theme=omni&background=ffc0cb&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493&hide_border=true" alt="GitHub Streak" />
+  
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrrine&layout=compact&theme=omni&bg_color=ff69b4,ffb6c1,ffc0cb&title_color=fff&text_color=fff&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -137,7 +130,7 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏪 Enterprise FMCG Web Application</h3>
+      <h3>🍯 Arbiter</h3>
       <p><em>Solo-developed full-stack solution transforming legacy Excel systems</em></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=ff69b4" />
@@ -148,18 +141,6 @@ I love creating things that work! There's nothing more fulfilling than knowing m
       <p>💐 <strong>Impact:</strong> Revolutionizing purchase order management</p>
     </td>
     <td align="center" width="50%">
-      <h3>🤖 RPA Systems</h3>
-      <p><em>Building automation solutions for Wishrolls Status & OC Network</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=ff69b4" />
-        <img src="https://img.shields.io/badge/N8N-FF6D5A?style=flat-square&logoColor=white&color=ffb6c1" />
-        <img src="https://img.shields.io/badge/API-0052CC?style=flat-square&logoColor=white&color=ff69b4" />
-      </p>
-      <p>🌹 <strong>Focus:</strong> Workflow automation & efficiency</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <h3>☕ Customs and Coffee</h3>
       <p><em>Rebuilding an old indie game I developed in the past that still has an active fanbase</em></p>
       <p>
@@ -168,16 +149,6 @@ I love creating things that work! There's nothing more fulfilling than knowing m
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=ff69b4" />
       </p>
       <p>🌸 <strong>Release:</strong> Free for the community!</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧠 AI Research</h3>
-      <p><em>Exploring machine learning applications in academia and projects</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=ff69b4" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&color=ffb6c1" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&color=ff69b4" />
-      </p>
-      <p>🌺 <strong>Domain:</strong> Data Science & ML</p>
     </td>
   </tr>
 </table>
@@ -198,7 +169,7 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 
 <div align="center">
 
-I'm always excited to work on **Machine Learning** and **AI projects**! 🤖
+I'm always excited to work on a whole bunch of projects, especially **machine learning** related ones! 🤖
 
 ### 📬 Reach Out to Me
 
@@ -218,6 +189,6 @@ I'm always excited to work on **Machine Learning** and **AI projects**! 🤖
     🌷🌸🌺🌻🌼🌹🏵️💐
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer&text=Keep%20Growing%20Your%20Garden!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29&height=100&section=footer&animation=twinkling" />
 
 </div>
