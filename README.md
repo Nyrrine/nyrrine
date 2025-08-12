@@ -54,31 +54,41 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=ff69b4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffb6c1)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=ffb6c1)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ff69b4)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ffb6c1)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ff69b4)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ffb6c1)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff69b4)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ffb6c1)
 
-### 🌸 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=ffb6c1)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=ff69b4)
+### 🌸 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=ff69b4)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=ffb6c1)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&color=ff69b4)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=ffb6c1)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=ff69b4)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white&color=ffb6c1)
 
-### 🌺 Database & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=ff69b4)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ff69b4)
-
-### 🤓☝️ Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=ff69b4)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=ffb6c1)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=ff69b4)
-
-### 🎨 Tools & Platforms
-![Claude](https://img.shields.io/badge/Claude_AI-412991?style=for-the-badge&logoColor=white&color=ffb6c1)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=ff69b4)
+### 🔧 Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff69b4)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=ffb6c1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ffb6c1)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)
+
+### 🌺 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=ffb6c1)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=ff69b4)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ffb6c1)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=ff69b4)
+
+### 🎨 Other
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ffb6c1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=ff69b4)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=ffb6c1)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=ff69b4)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=ffb6c1)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=ff69b4)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=ffb6c1)
+![Claude](https://img.shields.io/badge/Claude_AI-412991?style=for-the-badge&logoColor=white&color=ff69b4)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=ffb6c1)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&color=ff69b4)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&color=ffb6c1)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=ff69b4)
@@ -86,8 +96,6 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=ff69b4)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&color=ffb6c1)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=ff69b4)
-
-### 🔐 Security
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logoColor=white&color=ffb6c1)
 ![Semgrep](https://img.shields.io/badge/Semgrep-62F1A1?style=for-the-badge&logoColor=white&color=ff69b4)
 
@@ -107,9 +115,9 @@ I love creating things that work! There's nothing more fulfilling than knowing m
 
 <div align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=nyrrine&show_icons=true&theme=omni&bg_color=ffc0cb,ffb6c1,ff69b4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Nyrrine's GitHub stats" />
-  
+  <br/>
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrrine&theme=omni&background=ffc0cb&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493&hide_border=true" alt="GitHub Streak" />
-  
+  <br/>
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrrine&layout=compact&theme=omni&bg_color=ff69b4,ffb6c1,ffc0cb&title_color=fff&text_color=fff&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -144,9 +152,7 @@ I love creating things that work! There's nothing more fulfilling than knowing m
       <h3>☕ Customs and Coffee</h3>
       <p><em>Rebuilding an old indie game I developed in the past that still has an active fanbase</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&color=ff69b4" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&color=ffb6c1" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=ff69b4" />
+        <img src="https://img.shields.io/badge/Godot%204.4-478CBF?style=flat-square&logo=godotengine&logoColor=white&color=ff69b4" />
       </p>
       <p>🌸 <strong>Release:</strong> Free for the community!</p>
     </td>
@@ -189,6 +195,6 @@ I'm always excited to work on a whole bunch of projects, especially **machine le
     🌷🌸🌺🌻🌼🌹🏵️💐
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,28,29&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn" />
 
 </div>
