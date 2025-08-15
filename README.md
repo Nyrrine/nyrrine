@@ -26,16 +26,17 @@
 
 <img align="right" width="100" src="https://i.pinimg.com/736x/48/99/17/4899178db8f71cd8a22794fb1880aff3.jpg" alt="Cute photo" />
 
-> *Incoming Freshman Data Science Student & Fullstack Developer*  
-> *Community Data & Social Platforms | Indie & FMCG Enterprise Software Experience*
+> *Freshman Information Science Student & Fullstack Developer*  
+> *Community Data & Social Platforms | Machine Learning Software Management & FMCG Enterprise Software Experience*
 
-Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turning ideas into reality! ✨
+Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turning ideas into reality! I'm currently specializing in **machine learning**! ✨
 
 ### 🌷 What I'm Currently Working On
 
 - 🤖 **RPA Systems** for the Wishrolls Status & OC Network Community
 - 🍯 **Arbiter** - Transforming a major FMCG company's Excel PO system into a modern TypeScript/React/PostgreSQL solution
-- ☕ **Indie Project Remaster** - Rebuilding a beloved app from scratch for loyal fans (free release!)
+- ☕ **Customs & Coffee** - Rebuilding a beloved app from scratch for loyal fans of a game I developed in the past
+- 📱 **Status & OC Network** - Developing RPA systems for data and community management
 - 🧠 **AI Research** - Exploring machine learning applications in academia
 
 ### 💕 My Philosophy
@@ -191,3 +192,4 @@ I'm always excited to work on a whole bunch of projects, especially **machine le
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer&text=🌸💕🌸&fontSize=40&fontAlignY=70&fontColor=ffffff&animation=twinkling" />
 
 </div>
+
