@@ -33,7 +33,6 @@ Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turn
 
 ### 🌷 What I'm Currently Working On
 
-- 🤖 **RPA Systems** for the Wishrolls Status & OC Network Community
 - 🍯 **Arbiter** - Transforming a major FMCG company's Excel PO system into a modern TypeScript/React/PostgreSQL solution
 - ☕ **Customs & Coffee** - Rebuilding a beloved app from scratch for loyal fans of a game I developed in the past
 - 📱 **Status & OC Network** - Developing RPA systems for data and community management
@@ -41,7 +40,7 @@ Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turn
 
 ### 💕 My Philosophy
 
-I love creating things that work! There's nothing more fulfilling than knowing my work made someone's day better. I look at my repos and feel like I'm tending to my own personal garden, quite a comparison I know but it's nice to see it all flourish in one place, hehe.
+I love creating things that work! There's nothing more fulfilling than knowing my work made someone's day better. I look at my repos and feel like I'm tending to my own personal garden, quite a comparison, I know, but it's nice to see it all flourish in one place, hehe.
 
 <div align="center">
   
@@ -192,4 +191,5 @@ I'm always excited to work on a whole bunch of projects, especially **machine le
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer&text=🌸💕🌸&fontSize=40&fontAlignY=70&fontColor=ffffff&animation=twinkling" />
 
 </div>
+
 
