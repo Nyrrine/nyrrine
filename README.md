@@ -1,195 +1,137 @@
 <div align="center">
 
-# 🌸 Welcome To My Garden!!! 🌸
+<h1>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7195e121-eded-45cf-9aab-909deebd81b2/d7lj0i7-3fea9ddc-bc74-4d42-9dfa-2d19de8482be.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MTk1ZTEyMS1lZGVkLTQ1Y2YtOWFhYi05MDlkZWViZDgxYjIvZDdsajBpNy0zZmVhOWRkYy1iYzc0LTRkNDItOWRmYS0yZDE5ZGU4NDgyYmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2WwT3s_gMfZB4Apyf8Ne-f5Pmh70L8N7g-YTF71GNsQ" alt="Team Plasma icon" width="34" />
+  Nyrrine
+</h1>
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
-<div align="center">
+<br />
 
-```
-    ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
-    ╔═══════════════════════════╗
-    ║   🌷 Hello, World! 🌷    ║
-    ╚═══════════════════════════╝
-    ✿.｡.:* ☆:**:. .:**:.☆*.:｡.✿
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Project+Manager;Product+Builder;Data+Manager;Community+Manager;AI+Engineer;Total+Nerd" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-## 🎀 About Me
-
-</div> 
-
-<img align="right" width="100" src="https://i.pinimg.com/736x/48/99/17/4899178db8f71cd8a22794fb1880aff3.jpg" alt="Cute photo" />
-
-> *Freshman Information Science Student & Fullstack Developer*  
-> *Community Data & Social Platforms | Machine Learning Software Management & FMCG Enterprise Software Experience*
-
-Hello! I'm **Nyrrine**, a passionate developer who believes in the magic of turning ideas into reality! I'm currently specializing in **machine learning**! ✨
-
-### 🌷 What I'm Currently Working On
-
-- 🍯 **Arbiter** - Transforming a major FMCG company's Excel PO system into a modern TypeScript/React/PostgreSQL solution
-- ☕ **Customs & Coffee** - Rebuilding a beloved app from scratch for loyal fans of a game I developed in the past
-- 📱 **Status & OC Network** - Developing RPA systems for data and community management
-- 🧠 **AI Research** - Exploring machine learning applications in academia
-
-### 💕 My Philosophy
-
-I love creating things that work! There's nothing more fulfilling than knowing my work made someone's day better. I look at my repos and feel like I'm tending to my own personal garden, quite a comparison, I know, but it's nice to see it all flourish in one place, hehe.
-
-<div align="center">
-  
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💖 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=ff69b4)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffb6c1)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ffb6c1)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff69b4)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ffb6c1)
-
-### 🌸 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=ff69b4)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=ffb6c1)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&color=ff69b4)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=ffb6c1)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=ff69b4)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white&color=ffb6c1)
-
-### 🌺 Backend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff69b4)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=ffb6c1)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=ffb6c1)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ffb6c1)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)
-
-### 🎨 Other
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ffb6c1)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=ff69b4)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=ffb6c1)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=ff69b4)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=ffb6c1)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=ff69b4)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&color=ffb6c1)
-![Claude](https://img.shields.io/badge/Claude_AI-412991?style=for-the-badge&logoColor=white&color=ff69b4)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=ffb6c1)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&color=ff69b4)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&color=ffb6c1)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&color=ff69b4)
-![N8N](https://img.shields.io/badge/N8N-FF6D5A?style=for-the-badge&logoColor=white&color=ffb6c1)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=ff69b4)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&color=ffb6c1)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=ff69b4)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logoColor=white&color=ffb6c1)
-![Semgrep](https://img.shields.io/badge/Semgrep-62F1A1?style=for-the-badge&logoColor=white&color=ff69b4)
+<br />
+<img src="https://i.pinimg.com/originals/fc/9f/cf/fc9fcfbed72744ae4a0cc8caab73888b.gif" alt="Hero banner" width="30%" height="150" />
 
 </div>
 
 ---
+## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> Current Roles <img src="https://i.pinimg.com/originals/e8/2b/e6/e82be6cee446f9b3f8a0b70b2649f679.gif" height="20" />
 
-<div align="center">
+<img align="right" src="https://i.pinimg.com/736x/55/04/60/5504601509e586efcc06722b0b75fcdf.jpg" alt="Current roles accent" width="25%" vspace="18" />
 
-```
-🌻 ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ─── 🌻
-```
+<table width="72%">
+  <thead>
+    <tr>
+      <th align="left" style="padding:8px 16px;">Period</th>
+      <th align="left" style="padding:8px 16px;">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px 16px;">Feb 2026 – Present</td>
+      <td style="padding:8px 16px;">Lead Machine Learning Engineer</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Feb 2026 – Present</td>
+      <td style="padding:8px 16px;">Software Developer</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Jul 2025 – Present</td>
+      <td style="padding:8px 16px;">Solutions Architect</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Jun 2025 – Present</td>
+      <td style="padding:8px 16px;">Community and Data Manager</td>
+    </tr>
+    <tr>
+      <td style="padding:8px 16px;">Jun 2023 – Present</td>
+      <td style="padding:8px 16px;">Lead Developer</td>
+    </tr>
+  </tbody>
+</table>
 
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=nyrrine&show_icons=true&theme=omni&bg_color=ffc0cb,ffb6c1,ff69b4&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Nyrrine's GitHub stats" />
-  <br/>
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=nyrrine&theme=omni&background=ffc0cb&ring=ff69b4&fire=ff69b4&currStreakLabel=ff1493&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyrrine&layout=compact&theme=omni&bg_color=ff69b4,ffb6c1,ffc0cb&title_color=fff&text_color=fff&hide_border=true" alt="Top Languages" />
-</div>
+<br clear="right" />
 
 ---
 
-<div align="center">
-
-```
-✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿ ✿
-```
-
-## 🌸 Featured Projects
-
-</div>
-
-<div align="center">
+## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> Selected Systems
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🍯 Arbiter</h3>
-      <p><em>Solo-developed full-stack solution transforming legacy Excel systems</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=ff69b4" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&color=ffb6c1" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&color=ff69b4" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=ffb6c1" />
-      </p>
-      <p>💐 <strong>Impact:</strong> Revolutionizing purchase order management</p>
+    <td width="50%" valign="top">
+      <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmaulqZeY0TtOQ6EZKJofHIiKsgaCO4z2wjA&s" alt="Warehouse Odoo ERP System" height="40" />&nbsp;Warehouse Odoo ERP System</h3>
+      <p>Enterprise SaaS platform for FMCG warehouse operations, unifying six core departments into one real-time system with live database synchronization, inventory checks, ticket routing, and web integration.</p>
     </td>
-    <td align="center" width="50%">
-      <h3>☕ Customs and Coffee</h3>
-      <p><em>Rebuilding an old indie game I developed in the past that still has an active fanbase</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Godot%204.4-478CBF?style=flat-square&logo=godotengine&logoColor=white&color=ff69b4" />
-      </p>
-      <p>🌸 <strong>Release:</strong> TBA </p>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.socialoc.app"><img src="https://play-lh.googleusercontent.com/D7TpSzK65EA6Wwqa1827ouwY9bVzYMF17eq9lZYXfdbyqTbY4UT1KEpArEJaLqArSVkDnMVReocK3gI97C2a=w480-h960-rw" alt="OC Social Network" height="40" /></a>&nbsp;OC Social Network</h3>
+      <p>Built the official guidelines platform and managed HR, staffing, and moderation operations. Implemented ticketing systems and RPA workflows for scalable community support.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://play-lh.googleusercontent.com/Q81yWg1GJ2Sfu6GOITKBE28hgHdXnveqZY9l2TAxWe5ryJua7N-Ki4ZTilppOH3Ur8gD" alt="Status AI" height="40" />&nbsp;Status AI</h3>
+      <p>Managed community and social data operations for an AI social simulation platform. Built reward automation, led ticketing operations, and supported HR/community staffing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://gacha-mods.com/wp-content/uploads/2023/08/Gacha-Customs-and-Coffee-Apk.webp" alt="Customs and Coffee" height="40" />&nbsp;Customs & Coffee</h3>
+      <p>Lead developer for a character customization game in Godot with layered outfit systems, shareable Base64 character codes, and a dynamic asset pipeline for rapid content updates.</p>
     </td>
   </tr>
 </table>
 
+<details>
+<summary><strong>Additional Project</strong></summary>
+<br />
+
+### Limbus OC Toolkit
+
+Solo project focused on secure account systems, profile management, character persistence, and deployable character wiki/story modules.
+
+</details>
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/43/58/20/4358206b4e2f98fb5a6f4a5d2e63df0c.jpg" alt="Section accent" width="36%" />
 </div>
 
 ---
 
+## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> Technical Focus <img src="https://i.pinimg.com/originals/e2/15/16/e21516ef3814c7cce41461558a41eb10.gif" height="20" />
+
+<img align="right" src="https://i.pinimg.com/1200x/5a/57/93/5a579325c938ae49f7322d3f744af6a0.jpg" alt="Technical focus accent" width="24%" />
+
+- Production systems architecture and operations
+- Automation workflows for data, support, and community pipelines
+- Full-stack product delivery from planning to deployment
+- Systems-level engineering and performance-focused services with Rust
+- Applied ML integration for real-world workflows
+
+<br clear="right" />
+
+---
+
+## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> GitHub Overview
+
 <div align="center">
-
-```
-🌷 ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ─── 🌷
-```
-
-## 🤝 Let's Connect & Collaborate!
-
-</div>
-
-<div align="center">
-
-I'm always excited to work on a whole bunch of projects, especially **machine learning** related ones! 🤖
-
-### 📬 Reach Out to Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4)](https://www.linkedin.com/in/joaquin-ross-70a528346/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=ffb6c1)](https://discord.com/users/nyrrine)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff69b4)](mailto:nyrrine@gmail.com)
-
+  <a href="https://github.com/Nyrrine">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nyrrine&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Nyrrine?tab=repositories">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyrrine&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+  </a>
 </div>
 
 ---
 
-<div align="center">
-  
-```
-    🌷🌸🌺🌻🌼🌹🏵️💐
-    Thank you for visiting my Github page!
-    🌷🌸🌺🌻🌼🌹🏵️💐
-```
+## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> Contact <img src="https://i.pinimg.com/originals/4b/4f/a1/4b4fa16fff0d9782b6e53db976f89f78.gif" height="20" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer&text=🌸💕🌸&fontSize=40&fontAlignY=70&fontColor=ffffff&animation=twinkling" />
-
-</div>
-
-
+<p align="center"><a href="https://x.com/nyrrineross"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a><a href="mailto:nyrrine@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><img src="https://img.shields.io/badge/Discord-nyrrine-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username" /></p>
