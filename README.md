@@ -125,10 +125,6 @@ Solo project focused on secure account systems, profile management, character pe
   <a href="https://github.com/Nyrrine">
     <img src="https://streak-stats.demolab.com?user=Nyrrine&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats" />
   </a>
-  <br />
-  <a href="https://github.com/Nyrrine">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyrrine&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </a>
 </div>
 
 ---
@@ -136,3 +132,4 @@ Solo project focused on secure account systems, profile management, character pe
 ## <img src="https://www.serebii.net/itemdex/sprites/sv/pokeball.png" alt="Pokeball" height="16" /> Contact <img src="https://i.pinimg.com/originals/4b/4f/a1/4b4fa16fff0d9782b6e53db976f89f78.gif" height="20" />
 
 <p align="center"><a href="https://x.com/nyrrineross"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a><a href="mailto:nyrrine@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><img src="https://img.shields.io/badge/Discord-nyrrine-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username" /></p>
+
