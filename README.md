@@ -125,6 +125,10 @@ Solo project focused on secure account systems, profile management, character pe
   <a href="https://github.com/Nyrrine">
     <img src="https://streak-stats.demolab.com?user=Nyrrine&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats" />
   </a>
+  <br />
+  <a href="https://github.com/Nyrrine">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyrrine&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
