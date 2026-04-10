@@ -12,17 +12,17 @@
 
 <pre>
     <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" height="16" />  founder @ arbiter holdings • lead ml eng @ dynamic 88
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" height="16" />  ml pipelines • full-stack saas • warehouse automation
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" height="16" />  community + data @ wishroll (status ai, oc social)
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" height="16" />  ml pipelines • full-stack saas • project management
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" height="16" />  community + data manager
     <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" height="16" />  bs mis @ dlsu–csb (2025–2028)
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" height="16" />  laguna, ph • utc+8
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" height="16" />  calabarzon, ph • utc+8
 </pre>
 
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
 <br><br>
 
-[![](https://img.shields.io/badge/x-111111)](https://x.com/nyrrineross)
-[![](https://img.shields.io/badge/gmail-E8C98C)](mailto:nyrrine@gmail.com)
-[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe)](#)
+[![](https://img.shields.io/badge/x-111111?logo=x&logoColor=white)](https://x.com/nyrrineross)
+[![](https://img.shields.io/badge/gmail-E8C98C?logo=gmail&logoColor=111111)](mailto:nyrrine@gmail.com)
+[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?logo=discord&logoColor=111111)](#)
 
 </div>
