@@ -11,11 +11,11 @@
 <br><br>
 
 <pre>
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" height="18" align="middle" />  founder @ arbiter holdings • lead ml eng @ dynamic 88, ph
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" height="18" align="middle" />  community + data manager @ wishroll, new york
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" height="18" align="middle" />  ml pipelines • full-stack saas • project management
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" height="18" align="middle" />  bs mis @ dlsu–csb (2025–2028) • calabarzon, ph
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" height="18" align="middle" />  organoid intelligence sustainability • scoping review (wip)
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" width="20" height="20" align="absmiddle" />  founder @ arbiter holdings • lead ml eng @ dynamic 88, ph
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" width="20" height="20" align="absmiddle" />  community + data manager @ wishroll, new york
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" width="20" height="20" align="absmiddle" />  ml pipelines • full-stack saas • project management
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" width="20" height="20" align="absmiddle" />  bs mis @ dlsu–csb (2025–2028) • calabarzon, ph
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" width="20" height="20" align="absmiddle" />  organoid intelligence sustainability • scoping review (wip)
 </pre>
 
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
