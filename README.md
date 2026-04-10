@@ -22,7 +22,7 @@
 <br><br>
 
 [![](https://img.shields.io/badge/%20-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nyrrineross)
-[![](https://img.shields.io/badge/%20-E8C98C?style=flat-square&logo=gmail&logoColor=111111)](mailto:nyrrine@gmail.com)
+[![](https://img.shields.io/badge/%20-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nyrrine@gmail.com)
 [![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?style=flat-square&logo=discord&logoColor=111111)](#)
 
 </div>
