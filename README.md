@@ -23,6 +23,6 @@
 
 [![](https://img.shields.io/badge/%20-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nyrrineross)
 [![](https://img.shields.io/badge/%20-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nyrrine@gmail.com)
-[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?style=flat-square&logo=discord&logoColor=111111)](#)
+[![](https://img.shields.io/badge/discord-nyrrine-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
 
 </div>
