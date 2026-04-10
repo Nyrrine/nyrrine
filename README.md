@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/go-A8DDE8?style=flat-square&logo=go&logoColor=111111" />
 <img src="https://img.shields.io/badge/rust-E8C4A8?style=flat-square&logo=rust&logoColor=111111" />
 <img src="https://img.shields.io/badge/c-C8D4E0?style=flat-square&logo=c&logoColor=111111" />
-<img src="https://img.shields.io/badge/supabase-B8E6CC?style=flat-square&logo=supabase&logoColor=111111" />
+<img src="https://img.shields.io/badge/postgresql-A8C8E0?style=flat-square&logo=postgresql&logoColor=111111" />
 
 <br><br>
 
@@ -23,8 +23,6 @@
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
 <br><br>
 
-[![](https://img.shields.io/badge/x-111111?logo=x&logoColor=white)](https://x.com/nyrrineross)
-[![](https://img.shields.io/badge/gmail-E8C98C?logo=gmail&logoColor=111111)](mailto:nyrrine@gmail.com)
-[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?logo=discord&logoColor=111111)](#)
+<a href="https://x.com/nyrrineross"><img src="https://cdn.simpleicons.org/x/ffffff" height="20" /></a>&nbsp;&nbsp;<a href="mailto:nyrrine@gmail.com"><img src="https://cdn.simpleicons.org/gmail/E8C98C" height="20" /></a>&nbsp;&nbsp;[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?logo=discord&logoColor=111111)](#)
 
 </div>
