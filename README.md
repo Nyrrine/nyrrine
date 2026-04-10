@@ -21,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
 <br><br>
 
-<a href="https://x.com/nyrrineross"><img src="https://cdn.simpleicons.org/x/ffffff" height="20" /></a>&nbsp;&nbsp;<a href="mailto:nyrrine@gmail.com"><img src="https://cdn.simpleicons.org/gmail/E8C98C" height="20" /></a>&nbsp;&nbsp;[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?logo=discord&logoColor=111111)](#)
+[![](https://img.shields.io/badge/%20-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/nyrrineross)
+[![](https://img.shields.io/badge/%20-E8C98C?style=flat-square&logo=gmail&logoColor=111111)](mailto:nyrrine@gmail.com)
+[![](https://img.shields.io/badge/discord-nyrrine-dbe7fe?style=flat-square&logo=discord&logoColor=111111)](#)
 
 </div>
