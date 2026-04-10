@@ -5,16 +5,11 @@
 <pre>
     💼 founder @ arbiter holdings • lead ml eng @ dynamic 88
     🧠 ml pipelines • full-stack saas • warehouse automation
+    🌐 community + data @ wishroll (status ai, oc social)
     📚 bs mis @ dlsu–csb (2025–2028)
     📍 laguna, ph • utc+8
-    🎭 theatre kid, class prez (k–12), certified yapper
 </pre>
-<br>
-<img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-divider.gif" height="40" />
-<br><br>
-<img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/sticker1.webp" height="28" />
-<img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/sticker2.webp" height="28" />
-<img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/sticker3.webp" height="28" />
+<img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
 <br><br>
 
 [![](https://img.shields.io/badge/x-111111)](https://x.com/nyrrineross)
