@@ -10,13 +10,15 @@
 
 <br><br>
 
+<table align="center"><tr><td align="left">
 <pre>
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" height="16" />  founder @ arbiter holdings • lead ml eng @ dynamic 88
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" height="16" />  ml pipelines • full-stack saas • project management
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" height="16" />  community + data manager
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" height="16" />  bs mis @ dlsu–csb (2025–2028)
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" height="16" />  calabarzon, ph • utc+8
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" height="20" align="middle" />  founder @ arbiter holdings • lead ml eng @ dynamic 88
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" height="20" align="middle" />  ml pipelines • full-stack saas • project management
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/currency.png" height="20" align="middle" />  community + data manager
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" height="20" align="middle" />  bs mis @ dlsu–csb (2025–2028)
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" height="20" align="middle" />  calabarzon, ph • utc+8
 </pre>
+</td></tr></table>
 
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
 <br><br>
