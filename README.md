@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/pearl.png" width="20" height="20" align="absmiddle" />  community + data manager @ wishroll, new york
     <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/refill.png" width="20" height="20" align="absmiddle" />  ml pipelines • full-stack saas • project management
     <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/exp.png" width="20" height="20" align="absmiddle" />  bs is @ dlsu–csb (2025–2028) • calabarzon, ph
-    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" width="20" height="20" align="absmiddle" />  organoid intelligence sustainability • https://zenodo.org/doi/10.5281/zenodo.19681058
+    <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/stellarjade.png" width="20" height="20" align="absmiddle" />  organoid intelligence sustainability • published
 </pre>
 
 <img src="https://raw.githubusercontent.com/nyrrine/nyrrine/main/assets/robin-chibi.gif" height="40" />
